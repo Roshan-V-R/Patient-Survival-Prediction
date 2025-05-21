@@ -98,9 +98,3 @@ pip install pandas matplotlib seaborn numpy scipy scikit-learn imblearn xgboost
 - Explore other classifiers (e.g., XGBoost, Gradient Boosting) for comparison.
 - Add cross-validation to ensure model robustness.
 - Enhance the Streamlit app with a user-friendly interface for inputting patient data.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Contact
-For questions or contributions, please open an issue or contact the repository owner.
